@@ -1,16 +1,13 @@
 body {
-    background: #CCCCCC;
+    background: #CCCCCC
 }
 
 p {
     text-align: center;
-    color: black;
-    
 }
-
-em strong {
+    
+em  strong {
     color: #FF0000;
-    text-align: center;
 }
 
 .enviar {
